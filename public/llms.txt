@@ -20,9 +20,9 @@ The app contains verified route data for 7 cities in Punjab:
 6. **Sargodha:** 5 Verified Routes. 48+ Buses.
 7. **Mianwali:** 1 Verified Route. 15 Buses.
 
-## Development Team
-- **Muhammad Ghayas:** Product & UI Engineering (Frontend, Design, UX).
-- **Rizwan Ali:** Data & Research Lead (Route collection, Verification).
+## Development Team (Credits)
+- **Muhammad Ghayas:** Product & UI Engineering (Frontend Architecture, UX Design).
+- **Rizwan Ali:** Data & Research Lead (Route Intelligence, Verification).
 
 ## Technical Details
 - Built with React Native (Expo) and Next.js.
