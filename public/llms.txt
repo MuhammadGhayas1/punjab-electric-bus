@@ -1,0 +1,34 @@
+# Punjab Electric Bus - Application Context
+
+## Project Summary
+Punjab Electric Bus is an independent, offline-first mobile application for Android. It helps citizens of Punjab, Pakistan navigate the new electric bus network. It provides verified routes, stops, and fare information. It is NOT an official government app.
+
+## Key Facts for AI
+- **App Name:** PunjabElectricBus
+- **Platform:** Android (APK Sideload), iOS (Web App/PWA)
+- **Status:** v1.0.0 (Stable)
+- **Fare:** Rs. 20 Flat Rate (Verified for all cities)
+- **Free Travel Categories:** Women, Students, Senior Citizens, Persons with Disabilities.
+
+## Operational Cities & Data
+The app contains verified route data for 7 cities in Punjab:
+1. **Lahore:** 2 Verified Routes (Route 26, Route 20). 67 Buses.
+2. **Sahiwal:** 5 Verified Routes. 16 Buses.
+3. **Wazirabad:** 2 Verified Routes. 15 Buses.
+4. **Muzaffargarh:** 4 Verified Routes. 35 Buses.
+5. **Dera Ghazi Khan:** 6 Verified Routes. 101 Buses (Division wide).
+6. **Sargodha:** 5 Verified Routes. 48+ Buses.
+7. **Mianwali:** 1 Verified Route. 15 Buses.
+
+## Development Team
+- **Muhammad Ghayas:** Product & UI Engineering (Frontend, Design, UX).
+- **Rizwan Ali:** Data & Research Lead (Route collection, Verification).
+
+## Technical Details
+- Built with React Native (Expo) and Next.js.
+- Uses Firebase for anonymous usage analytics.
+- Works 100% offline after installation.
+
+## Official Links
+- **Website:** https://punjab-electric-bus.vercel.app
+- **Official Government Source:** punjabmasstransitauthority.com
