@@ -6,7 +6,7 @@ export const CONTENT = {
       "Find bus routes, stops, and fare information for Punjab's electric bus network in Pakistan. Works offline, requires no sign-up, and collects no personal data.",
     cta: 'Download for Android',
     helper: 'APK download • No account required',
-    previewLabel: 'App preview (City selection)',
+    previewLabel: 'Chief Minister Maryam Nawaz',
   },
   stats: [
     {

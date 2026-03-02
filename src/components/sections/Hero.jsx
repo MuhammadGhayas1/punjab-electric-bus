@@ -34,17 +34,19 @@ export default function Hero() {
           </div>
           <div className="relative flex justify-center lg:justify-end">
             <div className="relative w-full max-w-sm sm:max-w-md lg:max-w-[520px]">
-              <Image
-                src="/images/selectCity.png"
-                alt="App preview (City selection)"
-                width={450}
-                height={700}
-                className="w-full rounded-2xl object-contain shadow-lg"
-                sizes="(max-width: 768px) 92vw, 520px"
-                quality={75}
-                priority
-              />
-              <p className="mt-2 text-center text-sm text-gray-500">{previewLabel}</p>
+              <div className="overflow-hidden rounded-3xl bg-white shadow-xl ring-1 ring-black/5">
+                <Image
+                  src="/images/cm maryam nawaz.png"
+                  alt="Chief Minister Maryam Nawaz"
+                  width={450}
+                  height={700}
+                  className="w-full object-contain"
+                  sizes="(max-width: 768px) 92vw, 520px"
+                  quality={80}
+                  priority
+                />
+              </div>
+              <p className="mt-3 text-center text-sm font-medium text-gray-600">{previewLabel}</p>
             </div>
           </div>
         </div>
