@@ -1,7 +1,7 @@
 export const CONTENT = {
   hero: {
     badge: 'Independent utility for Punjab commuters',
-    headline: 'Punjab Electric Bus',
+    headline: 'Punjab Electric Bus App',
     subhead:
       "Find bus routes, stops, and fare information for Punjab's electric bus network in Pakistan. Works offline, requires no sign-up, and collects no personal data.",
     cta: 'Download for Android',
