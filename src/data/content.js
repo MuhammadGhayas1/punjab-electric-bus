@@ -104,6 +104,7 @@ export const CONTENT = {
     buttonText: 'Download for Android',
   },
   site: {
-    apkUrl: 'https://expo.dev/artifacts/eas/fC3WWVBJHmaQ1QW13T8Az1.apk',
+    apkUrl:
+      'https://github.com/MuhammadGhayas1/Punjab-Electric-Bus-App-APK/releases/download/v1.0.0/Punjab.Electrci.Bus.apk',
   },
 };
